@@ -1,0 +1,3 @@
+2020-06-03 17:01:02,089 -  INFO - Customers successful saved to: .\cust\store.json
+2020-06-03 17:01:02,090 -  INFO - Chosen exit
+2020-06-03 21:00:39,207 -  INFO - Chosen sort array
